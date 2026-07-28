@@ -163,15 +163,5 @@ npm run start
 
 ---
 
-## 📄 Resume / Portfolio Description Bullets
-
-- **Engineered FinStream**, a real-time financial transaction analysis and fraud intelligence platform processing high-throughput payment streams using Node.js, Express, React, and Tailwind CSS.
-- **Designed a Data Quality Validation Engine & Dead Letter Queue (DLQ) Re-Drive Mechanism**, isolating corrupt payloads (`INVALID_CURRENCY`, `NEGATIVE_AMOUNT`) and reducing pipeline schema errors by 98%.
-- **Developed a Hybrid Fraud Detection System** pairing sub-200ms deterministic rule checks (>₹200K transfer limits, velocity spikes) with **Gemini AI Forensic Investigation** for automated compliance audit reporting.
-- **Implemented Natural Language-to-SQL querying** for financial analysts, enabling instant text-driven insights over transactional warehouses.
-- **Enforced Enterprise Governance** featuring Role-Based Access Control (RBAC), immutable security audit logs with IP signatures, and live streaming pipeline health monitoring.
-
----
-
 ## 🛡️ License
 Distributed under the MIT License.
